@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script: my_first_script.sh
+# Script: exercise_5.sh
 # Description: This script demonstrates basic Bash scripting concepts
 # Author: Barikuma
     
