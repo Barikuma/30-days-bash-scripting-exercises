@@ -1,0 +1,14 @@
+
+total 36
+-rw-r--r-- 1 ghost ghost 162 Oct  5 14:54 exercise_1.sh
+-rw-r--r-- 1 ghost ghost 146 Oct  5 14:59 exercise_2.sh
+-rw-r--r-- 1 ghost ghost 185 Oct  5 16:06 exercise_3.sh
+-rw-r--r-- 1 ghost ghost 393 Oct  5 15:46 exercise_4.sh
+-rw-r--r-- 1 ghost ghost 248 Oct  5 16:02 exercise_5.sh
+-rw-r--r-- 1 ghost ghost 240 Oct  5 15:46 index.html
+-rw-r--r-- 1 ghost ghost  26 Oct  5 14:55 numbers.txt
+-rw-r--r-- 1 ghost ghost   1 Oct  5 16:06 output.txt
+-rw-r--r-- 1 ghost ghost  26 Oct  5 14:59 sorted_numbers.txt
+
+/home/ghost/30_days_bash_scripting_exercises/day08
+
